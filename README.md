@@ -51,6 +51,7 @@ End-to-end Walmart sales data analysis using Python and MySQL
 5. SQL queries executed to generate insights
    
 ## 📂 Project Structure
+
 |-- notebooks/     # Python analysis
 |-- sql/           # SQL queries
 |-- README.md
